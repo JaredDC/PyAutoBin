@@ -1,0 +1,2 @@
+# PyAutoBin
+publish PyAuto Binaries
